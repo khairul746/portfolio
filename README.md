@@ -7,7 +7,7 @@ I have gained valuable practical experience as a data scientist intern at id/x p
 
 I am looking for opportunities to further expand my skillset and learn from experts in the field. I am motivated by challenges and driven by curiosity. I am always open to feedback and eager to improve. I believe that data science has the potential to create positive impacts in various domains, and I aspire to be part of that journey.
 
-#### Technical Skills: Python, SQL
+#### Technical Skills: Python, SQL, ANSYS Fluent
 
 ### Education
 Bachelor of Chemical Engineering | Universitas Gadjah Mada (_July 2023_)
