@@ -19,4 +19,8 @@ Helps lending companies make more informed and accurate decisions by analyzing t
 ### Publications
 - Nugraha, M. G., Saputra, D. D. ., Ilyas, K. ., & Hidayat, M. (2023). Numerical Investigation of Hydrodynamics in Inline Mixers. CFD Letters, 15(8), 135–147. https://doi.org/10.37934/cfdl.15.8.135147
 
+### Projects
+* Credit Risk Analysis. https://www.kaggle.com/code/khairullahilyas/credit-risk-analysis-from-real-life-scenario
+* Rock Paper Scissor Classification with Keras. https://github.com/khairul746/portfolio/blob/main/Rock_Paper_Scissor_Classification.ipynb
+
 
