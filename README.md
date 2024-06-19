@@ -21,11 +21,12 @@ Helps lending companies make more informed and accurate decisions by analyzing t
 
 ### Projects
 
-- <img align="left" width="250" height="150" src="https://github.com/khairul746/portfolio/blob/main/Images/CreditRisk.jpg?raw=true"> **[Credit Risk Analysis](https://www.kaggle.com/code/khairullahilyas/credit-risk-analysis-from-real-life-scenario)**
+- <img align="left" width="250" height="150" src="https://github.com/khairul746/portfolio/blob/main/assets/image/CreditRisk.jpg?raw=true"> **[Credit Risk Analysis](https://www.kaggle.com/code/khairullahilyas/credit-risk-analysis-from-real-life-scenario)**
 
 In this project, clients are grouped into two groups, namely high-risk and low-risk. Various attributes are visualized to see the relationships between them. Finally, the Random Forest algorithm is applied to the attributes to produce a model that can distinguish high- or low-risk borrowers.
 <br>
-- <img align="left" width="250" height="150" src="https://github.com/khairul746/portfolio/blob/main/Images/RockPaperScissors.jpg?raw=true">**[Rock Paper Scissor Classification with Keras](https://github.com/khairul746/portfolio/blob/main/Rock_Paper_Scissor_Classification.ipynb)**
+<br>
+- <img align="left" width="250" height="150" src="https://github.com/khairul746/portfolio/blob/main/assets/image/RockPaperScissors.jpg?raw=true">**[Rock Paper Scissor Classification with Keras](https://github.com/khairul746/portfolio/blob/main/Rock_Paper_Scissor_Classification.ipynb)**
 
 
 
