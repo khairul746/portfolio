@@ -21,11 +21,14 @@ Helps lending companies make more informed and accurate decisions by analyzing t
 #
 ### Projects
 
-* <img style="center" width="250" height="150" src="https://github.com/khairul746/portfolio/blob/main/Images/CreditRisk.jpg?raw=true">
-**[Credit Risk Analysis](https://www.kaggle.com/code/khairullahilyas/credit-risk-analysis-from-real-life-scenario)**
-  
+<img align="left" width="250" height="150" src="https://github.com/khairul746/portfolio/blob/main/Images/CreditRisk.jpg?raw=true"> **[Credit Risk Analysis](https://www.kaggle.com/code/khairullahilyas/credit-risk-analysis-from-real-life-scenario)**
+
+In this project I have used survival analysis to study how the likelihood of the customer churn changes over time. I have also implementd a Random Forest model to predict the customer churn and deployed a model using flask webapp on Heroku. [App](https://churn-prediction-app.herokuapp.com/)  
+
 #
 
-* **[Rock Paper Scissor Classification with Keras](https://github.com/khairul746/portfolio/blob/main/Rock_Paper_Scissor_Classification.ipynb)**
+<img align="left" width="250" height="150" src="https://github.com/khairul746/portfolio/blob/main/Images/RockPaperScissors.jpg?raw=true">**[Rock Paper Scissor Classification with Keras](https://github.com/khairul746/portfolio/blob/main/Rock_Paper_Scissor_Classification.ipynb)**
+
+
 
 
