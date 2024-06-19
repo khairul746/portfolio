@@ -1,4 +1,4 @@
 title : Khairullah Ilyas
 photo : /assets/image/DSC01367-modified.png
-# theme: jekyll-theme-minimal
+show_downloads : True
 remote_theme: pages-themes/dinky@v0.2.0
