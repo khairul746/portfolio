@@ -21,7 +21,9 @@ Helps lending companies make more informed and accurate decisions by analyzing t
 
 ### Projects
 * <img style="float: left" width="250" height="150" src="https://github.com/khairul746/portfolio/blob/main/Images/CreditRisk.jpg?raw=true"> **[Credit Risk Analysis](https://www.kaggle.com/code/khairullahilyas/credit-risk-analysis-from-real-life-scenario)**
+  
 #
+
 * **[Rock Paper Scissor Classification with Keras](https://github.com/khairul746/portfolio/blob/main/Rock_Paper_Scissor_Classification.ipynb)**
 
 
