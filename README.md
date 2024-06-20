@@ -21,13 +21,13 @@ Helps lending companies make more informed and accurate decisions by analyzing t
 
 ### Projects
 
-- <figure><img align="left" width="250" height="150" src="https://github.com/khairul746/portfolio/blob/main/assets/image/CreditRisk.jpg?raw=true"></figure> <strong><a href="https://www.kaggle.com/code/khairullahilyas/credit-risk-analysis-from-real-life-scenario">Credit Risk Analysis</a></strong>
+- <figure class="figure-custom"><img align="left" width="250" height="150" src="https://github.com/khairul746/portfolio/blob/main/assets/image/CreditRisk.jpg?raw=true"></figure> <strong><a href="https://www.kaggle.com/code/khairullahilyas/credit-risk-analysis-from-real-life-scenario">Credit Risk Analysis</a></strong>
 
 In this project, clients are grouped into two groups, namely high-risk and low-risk. Various attributes are visualized to see the relationships between them. Finally, the Random Forest algorithm is applied to the attributes to produce a model that can distinguish high- or low-risk borrowers.
 <br>
 <br>
 <br>
-- <figure><img align="left" width="250" height="150" src="https://github.com/khairul746/portfolio/blob/main/assets/image/RockPaperScissors.jpg?raw=true"></figure> <strong><a href="https://github.com/khairul746/Applied-Data-Science-Capstone-IBM/blob/main/Rock_Paper_Scissor_Classification.ipynb">Rock Paper Scissor Classification with Keras</a></strong>
+- <figure class="figure-custom"><img align="left" width="250" height="150" src="https://github.com/khairul746/portfolio/blob/main/assets/image/RockPaperScissors.jpg?raw=true"></figure> <strong><a href="https://github.com/khairul746/Applied-Data-Science-Capstone-IBM/blob/main/Rock_Paper_Scissor_Classification.ipynb">Rock Paper Scissor Classification with Keras</a></strong>
 
 Convolutional Neural Networks techniques are used to classify datasets in the form of photographs of rock, scissors, and paper hand symbols. After training the model with augmented images, the model's accuracy was up to 98%.
 <br>
