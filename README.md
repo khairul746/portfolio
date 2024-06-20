@@ -34,10 +34,7 @@ Convolutional Neural Networks techniques are used to classify datasets in the fo
 <br>
 <br>
 
-img {
-  margin: 20px; 
-  padding: 10px;
-}
+- 
 
 
 
