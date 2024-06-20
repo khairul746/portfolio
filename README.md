@@ -1,7 +1,7 @@
 # Data Scientist
 
 ## About
-As a data science graduate with a chemical engineering background, I have developed a strong foundation in data analytics, machine learning, and computational fluid dynamics. I am eager to apply my skills and knowledge to real-world problems and provide innovative solutions.
+As a data enthusiast graduate with a chemical engineering background, I have developed a strong foundation in data analytics, machine learning, and computational fluid dynamics. I am eager to apply my skills and knowledge to real-world problems and provide innovative solutions.
 
 I have gained valuable practical experience as a data scientist intern at id/x partners, where I helped lending companies analyze their customers' credit risks using Python and machine learning models. I also collaborated on a research project at UGM, where I used ANSYS Fluent to simulate and examine the flow characteristics of industrial inline mixers, resulting in a journal publication. These experiences have enhanced my research, communication, and teamwork skills, as well as my passion for data science.
 
@@ -21,12 +21,18 @@ Helps lending companies make more informed and accurate decisions by analyzing t
 
 ### Projects
 
-- <img align="left" width="250" height="150" src="https://github.com/khairul746/portfolio/blob/main/assets/image/CreditRisk.jpg?raw=true"> **[Credit Risk Analysis](https://www.kaggle.com/code/khairullahilyas/credit-risk-analysis-from-real-life-scenario)**
+- <figure><img align="left" width="250" height="150" src="https://github.com/khairul746/portfolio/blob/main/assets/image/CreditRisk.jpg?raw=true"></figure> <strong><a href="https://www.kaggle.com/code/khairullahilyas/credit-risk-analysis-from-real-life-scenario">Credit Risk Analysis</a></strong>
 
 In this project, clients are grouped into two groups, namely high-risk and low-risk. Various attributes are visualized to see the relationships between them. Finally, the Random Forest algorithm is applied to the attributes to produce a model that can distinguish high- or low-risk borrowers.
 <br>
 <br>
-- <img align="left" width="250" height="150" src="https://github.com/khairul746/portfolio/blob/main/assets/image/RockPaperScissors.jpg?raw=true">**[Rock Paper Scissor Classification with Keras](https://github.com/khairul746/portfolio/blob/main/Rock_Paper_Scissor_Classification.ipynb)**
+<br>
+- <figure><img align="left" width="250" height="150" src="https://github.com/khairul746/portfolio/blob/main/assets/image/RockPaperScissors.jpg?raw=true"></figure> <strong><a href="https://github.com/khairul746/Applied-Data-Science-Capstone-IBM/blob/main/Rock_Paper_Scissor_Classification.ipynb">Rock Paper Scissor Classification with Keras</a></strong>
+
+Convolutional Neural Networks techniques are used to classify datasets in the form of photographs of rock, scissors, and paper hand symbols. After training the model with augmented images, the model's accuracy was up to 98%.
+<br>
+<br>
+<br>
 
 
 
