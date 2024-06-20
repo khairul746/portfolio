@@ -28,7 +28,7 @@ Helps lending companies make more informed and accurate decisions by analyzing t
 <br>
 <br>
 
-- <img align="left" width="250" height="150" src="https://github.com/khairul746/portfolio/blob/main/assets/image/RockPaperScissors.jpg?raw=true"><strong><a href="https://github.com/khairul746/Applied-Data-Science-Capstone-IBM/blob/main/Rock_Paper_Scissor_Classification.ipynb">Rock Paper Scissor Classification with Keras</a></strong>
+- <img align="left" width="250" height="150" src="https://github.com/khairul746/portfolio/blob/main/assets/image/RockPaperScissors.jpg?raw=true"><strong><a href="https://github.com/khairul746/Rock-Paper-Scissor-Classification/blob/main/Rock_Paper_Scissor_Keras.ipynb">Rock Paper Scissor Classification with Keras</a></strong>
 
   Convolutional Neural Networks techniques are used to classify datasets in the form of photographs of rock, scissors, and paper hand symbols. After training the model with augmented images, the model's accuracy was up to 98%.
 <br>
