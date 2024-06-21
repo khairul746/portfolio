@@ -21,23 +21,18 @@ Helps lending companies make more informed and accurate decisions by analyzing t
 
 ### Projects
 
-- <img align="left" width="250" height="150" src="https://github.com/khairul746/portfolio/blob/main/assets/image/CreditRisk.jpg?raw=true"> <strong><a href="https://www.kaggle.com/code/khairullahilyas/credit-risk-analysis-from-real-life-scenario">Credit Risk Analysis</a></strong>
+- <strong><a href="https://www.kaggle.com/code/khairullahilyas/credit-risk-analysis-from-real-life-scenario">Credit Risk Analysis</a></strong>
 
   In this project, clients are grouped into two groups, namely high-risk and low-risk. Various attributes are visualized to see the relationships between them. Finally, the Random Forest algorithm is applied to the attributes to produce a model that can distinguish high- or low-risk borrowers.
-<br>
-<br>
-<br>
 
-- <img align="left" width="250" height="150" src="https://github.com/khairul746/portfolio/blob/main/assets/image/RockPaperScissors.jpg?raw=true"><strong><a href="https://github.com/khairul746/Rock-Paper-Scissor-Classification/blob/main/Rock_Paper_Scissor_Keras.ipynb">Rock Paper Scissor Classification with Keras</a></strong>
+- <strong><a href="https://github.com/khairul746/Rock-Paper-Scissor-Classification/blob/main/Rock_Paper_Scissor_Keras.ipynb">Rock Paper Scissor Classification with Keras</a></strong>
 
   Convolutional Neural Networks techniques are used to classify datasets in the form of photographs of rock, scissors, and paper hand symbols. After training the model with augmented images, the model's accuracy was up to 98%.
-<br>
-<br>
-<br>
 
-- <img align="left" width="250" height="150" src="https://github.com/khairul746/portfolio/blob/main/assets/image/Rocket.gif?raw=true"> <strong><a href="https://github.com/khairul746/Applied-Data-Science-Capstone-IBM/tree/main">Applied Data Science Capstone</a></strong>
+- <strong><a href="https://github.com/khairul746/Applied-Data-Science-Capstone-IBM/tree/main">Applied Data Science Capstone</a></strong>
 
-  Convolutional Neural Networks techniques are used to classify datasets in the form of photographs of rock, scissors, and paper hand symbols. After training the model with augmented images, the model's accuracy was up to 98%.
+  In this project, I predict if the Falcon 9 first stage will land successfully. SpaceX advertises Falcon 9 rocket launches on its website with a cost of 62 million dollars; other providers cost upward of 165 million dollars each, much of the savings is because SpaceX can reuse the first stage. Therefore if we can determine if the first stage will land, we can 
+determine the cost of a launch. This information can be used if an alternate company wants to bid against SpaceX for a rocket launch. 
 <br>
 <br>
 <br>
