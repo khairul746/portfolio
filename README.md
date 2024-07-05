@@ -31,8 +31,12 @@ Helps lending companies make more informed and accurate decisions by analyzing t
 
 - <strong><a href="https://github.com/khairul746/Applied-Data-Science-Capstone-IBM/tree/main">Applied Data Science Capstone</a></strong>
 
-  In this project, I predict if the Falcon 9 first stage will land successfully. SpaceX advertises Falcon 9 rocket launches on its website with a cost of 62 million dollars; other providers cost upward of 165 million dollars each, much of the savings is because SpaceX can reuse the first stage. Therefore if we can determine if the first stage will land, we can 
-determine the cost of a launch. This information can be used if an alternate company wants to bid against SpaceX for a rocket launch. 
+  This project covers every step performed by data scientists, starting with importing data. Data is taken from the API using scraping techniques. After the data is taken, a cleaning and exploratory data analysis (EDA) process is carried out. Various machine learning models are built to get the best model from several trained models. In this repository, each step is created with its own file so that each step can be observed comprehensively.
+
+- <strong><a href="https://www.kaggle.com/code/khairullahilyas/adaro-stock-price-forecasting-with-lstm">Adaro Stock Price Forecasting</a></strong>
+
+  Stock prices fluctuate drastically every day. By using a machine learning model, stock prices can be studied and predicted. One neural network model, namely LSTM (Long-Short Term Memory), can learn dependencies from time series. In this project, the LSTM model has decent performance for predicting stock prices.
+  
 <br>
 <br>
 <br>
